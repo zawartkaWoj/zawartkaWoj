@@ -1,1 +1,1 @@
-<h1 align="left">SOFTWARE TESTER PORTFOLIO</h1>
+<h1 align="left">SOFTWARE TESTER PORTFOLIO - Wojciech Zawartka</h1>
