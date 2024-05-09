@@ -10,5 +10,9 @@
   <li>SQL - basics</li>
   <li>HTML & CSS - basics</li>
   <li>Postman - basics (while learning Java, I've used Postman to test various REST APIs)</li>
-  <li>SQL - basics</li>
+  <li>Selenium - basics (self-taught test automatization with Java)</li>
+  <li>GIT</li>
+  <li>Jira & Trello</li>
 </ul>
+<br>
+<h2>PROJECTS</h2>
