@@ -1,4 +1,4 @@
-<h1 align="left">SOFTWARE TESTER PORTFOLIO - Wojciech Zawartka</h1>
+<h1>SOFTWARE TESTER PORTFOLIO - Wojciech Zawartka</h1>
 <br>
 <h2>ABOUT ME</h2>
 <p>Hi, I'm Wojtek, a 32 years old IT and game development enthusiast. Few years ago I've retired from being a printing specialist to pursue career in the IT industry.</p>
