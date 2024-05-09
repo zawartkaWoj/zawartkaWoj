@@ -29,13 +29,14 @@
 <br>
 <h2>EXPERIENCE</h2>
 <ul>
-  <li>Game Tester</li>
+  <li>Game Tester (03.2021 - 02.2023)</li>
     <ul>
       <li>Testing computer game mechanics</li>
       <li>Reporting and providing detailed descriptions of encountered bugs in special spreadsheets</li>
       <li>Maintaining communication with developers and offering numerous suggestions for gameplay improvement</li>
     </ul>
-  <li>uTest Freelancer Tester</li>
+  <br>
+  <li>uTest Freelancer Tester (04.2024 - present)</li>
   <ul>
       <li>Submitting various bugs found by exploratory testing</li>
       <li>Communicating with project managers and other testers from all around the globe</li>
