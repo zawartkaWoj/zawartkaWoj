@@ -35,6 +35,10 @@
       <li>Reporting and providing detailed descriptions of encountered bugs in special spreadsheets</li>
       <li>Maintaining communication with developers and offering numerous suggestions for gameplay improvement</li>
     </ul>
-  <li></li>
-
+  <li>uTest Freelancer Tester</li>
+  <ul>
+      <li>Submitting various bugs found by exploratory testing</li>
+      <li>Communicating with project managers and other testers from all around the globe</li>
+      <li>Providing detailed feedback on usability, functionality, performance etc.</li>
+    </ul>
 </ul>
