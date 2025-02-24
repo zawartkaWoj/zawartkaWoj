@@ -14,6 +14,7 @@
   <li>Testing API using Postman</li>
   <li>Testing API using REST Assured Java library</li>
   <li>Testing web elements using Selenium WebDriver</li>
+  <li>Testing web elements using Playwright</li>
   <li>Chrome DevTools</li>
   <li>GIT</li>
   <li>Jira & Trello</li>
@@ -29,12 +30,7 @@
   <li>Teamwork and communication</li>
 </ul>
 <br>
-<h2>EXPERIENCE</h2>
+<font size="5">Playway S.A.</font> <font size="2">feb 2022 - current</font>
 <ul>
-  <li>Analytical thinking</li>
-  <li>Attention to detail</li>
-  <li>Patience</li>
-  <li>Time management</li>
-  <li>Critical Thinking</li>
-  <li>Teamwork and communication</li>
+ 
 </ul>
