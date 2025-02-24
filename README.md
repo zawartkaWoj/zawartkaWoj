@@ -30,7 +30,19 @@
   <li>Teamwork and communication</li>
 </ul>
 <br>
-<font size="5">Playway S.A.</font> <font size="2">feb 2022 - current</font>
+<h2>EXPERIENCE</h2>
 <ul>
- 
+  <li>Game Tester (03.2021 - present)</li>
+    <ul>
+      <li>Testing computer game mechanics</li>
+      <li>Reporting and providing detailed descriptions of encountered bugs in special spreadsheets</li>
+      <li>Maintaining communication with developers and offering numerous suggestions for gameplay improvement</li>
+    </ul>
+  <br>
+  <li>uTest Freelancer Tester (04.2024 - present)</li>
+  <ul>
+      <li>Submitting various bugs found by exploratory testing</li>
+      <li>Communicating with project managers and other testers from all around the globe</li>
+      <li>Providing detailed feedback on usability, functionality, performance etc.</li>
+    </ul>
 </ul>
