@@ -28,3 +28,13 @@
   <li>Critical Thinking</li>
   <li>Teamwork and communication</li>
 </ul>
+<br>
+<h2>EXPERIENCE</h2>
+<ul>
+  <li>Analytical thinking</li>
+  <li>Attention to detail</li>
+  <li>Patience</li>
+  <li>Time management</li>
+  <li>Critical Thinking</li>
+  <li>Teamwork and communication</li>
+</ul>
