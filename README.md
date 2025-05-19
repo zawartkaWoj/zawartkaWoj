@@ -31,8 +31,9 @@
 </ul>
 <br>
 <h2>EXPERIENCE</h2>
+<ul>
   <li>Junior automation tester (04.2024 - present)</li>
-  <ul>
+    <ul>
       <li>Building automated tests for a web application (Selenium WebDriver, Java, Maven, TestNG)</li>
       <li>Automation and execution of regression tests</li>
       <li>Performing end-to-end tests</li>
