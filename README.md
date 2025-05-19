@@ -31,6 +31,16 @@
 </ul>
 <br>
 <h2>EXPERIENCE</h2>
+  <li>Junior automation tester (04.2024 - present)</li>
+  <ul>
+      <li>Building automated tests for a web application (Selenium WebDriver, Java, Maven, TestNG)</li>
+      <li>Automation and execution of regression tests</li>
+      <li>Performing end-to-end tests</li>
+      <li>Creating test scenarios / test cases</li>
+      <li>Reporting and handling defects</li>
+      <li>Working with project documentation</li>
+    </ul>
+</ul>
 <ul>
   <li>Game Tester (03.2021 - present)</li>
     <ul>
